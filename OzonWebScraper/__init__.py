@@ -1,0 +1,1 @@
+from OzonWebScraper.Scraper import Scraper
